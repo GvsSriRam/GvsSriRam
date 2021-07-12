@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GvsSriRam. Welcome to my experimental hub
 - 👀 I’m interested in ML/DL/AI, computer vision, more importantly applications of them in actual business problems
-- 🌱 I’m currently undergoing training for google cloud professional data engineer, experimenting on various DL POC's
+- 🌱 I’m workig as a Senior Software Engineer and currently undergoing training for google cloud professional data engineer, experimenting on various DL POC's
 - 💞️ I’d be happy to help you out on any ML/DL related questions
 - 📫 Want to reach out to me? Here are my contact details... 
   - email: gvs.iitkgp@gmail.com
