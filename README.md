@@ -4,7 +4,7 @@
 - 💞️ I’d be happy to help you out on any ML/DL related questions
 - 📫 Want to reach out to me? Here are my contact details... 
   - email: gvs.iitkgp@gmail.com
-  - linkedin: [https://www.linkedin.com/in/giduthuri-venkata-satya-sri-ram-a3a420113/](https://www.linkedin.com/in/venkata-satya-sri-ram-giduthuri-a3a420113/)
+  - linkedin: [https://www.linkedin.com/in/giduthuri-venkata-satya-sri-ram/](https://www.linkedin.com/in/venkata-satya-sri-ram-giduthuri/)
 
 <!---
 GvsSriRam/GvsSriRam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
