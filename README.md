@@ -1,10 +1,42 @@
-- 👋 Hi, I’m @GvsSriRam. Welcome to my experimental hub
-- 👀 I’m interested in ML/DL/AI, computer vision, more importantly applications of them in actual business problems
-- 🌱 I’m workig as a Senior Software Engineer and currently experimenting on various DL POC's
-- 💞️ I’d be happy to help you out on any ML/DL related questions
-- 📫 Want to reach out to me? Here are my contact details... 
-  - email: venkatasatyasriram.giduthuri@gmail.com
-  - linkedin: [https://www.linkedin.com/in/giduthuri-venkata-satya-sri-ram/](https://www.linkedin.com/in/venkata-satya-sri-ram-giduthuri/)
+# Hi 👋 I'm Sri Ram GVS
+
+## About Me:
+
+* An experienced Machine Learning & Software Engineer
+* Currently pursuing Masters in Computer Science at Syracuse University (May'25)
+* Ex-HCL, IIT Kharagpur'20
+* I'm currently working on Full-stack and AI projects
+* Open to collaboration!
+
+## Connect with me:
+
+* [LinkedIn](https://www.linkedin.com/in/venkata-satya-sri-ram-giduthuri/)
+* [Gmail](venkatasatyasriram.giduthuri@gmail.com)
+
+## Tech Stack:
+
+### Languages:
+
+* Python
+* Java
+* Javascript
+* C++
+* SQL
+* HTML5
+* CSS
+
+### Tools/Frameworks:
+
+* Git
+* Django
+* Flask
+* React
+* AWS
+* MongoDB
+* MySQL
+* PyTorch
+* Docker
+* Postman
 
 <!---
 GvsSriRam/GvsSriRam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
