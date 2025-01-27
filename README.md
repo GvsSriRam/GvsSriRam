@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Sri Ram GVS</h1>
 
 # 💫 About Me:
-💻 An experienced Machine Learning & Software Engineer<br>🎓Currently pursuing Masters in Computer Science at Syracuse University ( May'25)<br>💼 Ex-HCL, IIT Kharagpur'20<br>🔭 I’m currently working on Full-stack and AI projects<br>🤝 Open to collaboration!<br>
+💻 An experienced Machine Learning & Software Engineer<br>🎓Currently pursuing Masters in Computer Science at Syracuse University ( May'25)<br>💼 Concentric AI, Ex-HCL, IIT Kharagpur'20<br>🔭 I’m currently working on Full-stack and AI projects<br>🤝 Open to collaboration!<br>
 
 <br />
 
